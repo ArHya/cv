@@ -1,0 +1,33 @@
+
+    body {
+      background-color: #fff5ea;
+    }
+
+    h1 {
+      color: #968c83;
+      font-style: oblique;
+
+    }
+
+    h3 {
+      color: #968c83;
+      font-style: oblique;
+    }
+
+    hr {
+      border-style: none;
+      border-top-style: dotted;
+      border-width: 5px;
+      border-color: #d6d2c4;
+      height: 0px;
+      width: 5%;
+    }
+
+    img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    width: 50%;
+    border-radius: 50%;
+  }
